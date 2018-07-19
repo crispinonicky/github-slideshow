@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Bananas are an excellent source of potassium
 Use the left arrow to go back!
  
